@@ -1,7 +1,4 @@
-/*
-   Date :: 02/08/2018
-   Author:: Raj Mehrotra
-*/
+
 
 
 IBM-HR-Analytics-Employee-Attrition-Performance dataset from the Kaggle. 
